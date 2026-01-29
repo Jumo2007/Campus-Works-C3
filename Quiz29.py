@@ -56,9 +56,8 @@ def main():
         elif opcion == 3:
             saldo = retirar_saldo(saldo)
         elif opcion == 4 :
-            print("Gracias por usar nuestro Cajero. ADIOS")
+            print("Gracias por usar nuestro Cajero. ADIOS ")
         
-
 
 main()
 
